@@ -94,5 +94,3 @@ v5.4 Update: Jun 14th 2022 - devdef / Alex Spirin, Alex's Warp changes integrate
   Warp mode - for smooth/continuous video input results leveraging optical flow estimation and frame blending
 
   Custom models support
-'''
-)
